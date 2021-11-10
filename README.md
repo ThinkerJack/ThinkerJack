@@ -5,10 +5,7 @@
 微信公众号：思想者杰克
 
 
-<a href="https://github.com/ThinkerJack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThinkerJack&show_icons=true&count_private=true" />
-</a>
-
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinkerJack&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkerJack&layout=compact)]()
