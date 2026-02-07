@@ -13,7 +13,3 @@
 
 **GroLauncher** — iOS 应用分类启动器
 > SwiftUI 构建，快速分类和启动常用 App。
-
----
-
-<sub>Blog: [juejin.cn/user/976022057523230](https://juejin.cn/user/976022057523230)</sub>
