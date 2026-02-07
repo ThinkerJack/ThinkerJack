@@ -1,11 +1,19 @@
-# 真实的杰克
+### Hey, I'm Jack 👋
 
-Flutter，Dart。blog:https://juejin.cn/user/976022057523230
+独立开发者，专注 macOS / iOS 原生应用。
 
+---
 
-![GitHub stars](https://github-readme-stats.vercel.app/api?username=ThinkerJack&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
-</br>
+#### 🚀 Products
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkerJack&layout=compact&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)]()
+**[GroAsk](https://groask.com)** — macOS 菜单栏 AI 启动器
+> `⌥Space` 直达 ChatGPT / Claude / Gemini，一键切换，无需离开当前工作。
+>
+> [官网](https://groask.com) · [下载](https://github.com/ThinkerJack/groask-release/releases/latest/download/GroAsk.dmg)
 
+**GroLauncher** — iOS 应用分类启动器
+> SwiftUI 构建，快速分类和启动常用 App。
 
+---
+
+<sub>Blog: [juejin.cn/user/976022057523230](https://juejin.cn/user/976022057523230)</sub>
