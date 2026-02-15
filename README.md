@@ -8,17 +8,19 @@
   <img src="https://groask.com/images/hero.png" width="600" alt="GroAsk" />
 </a>
 
-#### ⚡ [GroAsk](https://groask.com) — macOS 菜单栏 AI 启动器
+#### ⚡ [GroAsk](https://groask.com) — The Fastest Launcher for Claude Code
 
-一个快捷键，直达所有 AI。
+macOS 菜单栏 AI 启动器，一个快捷键直达 Claude Code。
 
-- **⌥Space 极速唤起** — 从任何应用直接打开，无需切换窗口
-- **多 AI 随心切换** — ChatGPT / Claude / Gemini / DeepSeek / Kimi，一键换道
-- **选中即提问** — 选择文本，按快捷键，自动发送给 AI，跳过复制粘贴
-- **图片直接问** — 截图、图表直接粘贴发送
-- **静默模式** — 后台提问，不打断当前工作
-- **原生性能** — Swift 构建，Apple Silicon 优化，资源占用极低
+- **⌥Space 极速唤起** — 输入任务，Claude Code 在正确的项目目录立刻启动
+- **6 个 CLI 智能体** — Claude Code / Gemini CLI / Codex / CodeBuddy / Kimi Code / Qwen Code
+- **4 个 Web AI** — ChatGPT / Claude / Gemini / Monica，选中文本直接提问
+- **工作区快捷方式** — 多个项目目录一键切换
+- **多终端支持** — Terminal / iTerm2 / Ghostty / Warp
+- **图片直接问** — 截图粘贴发送，跳过复制粘贴
+- **静默模式** — 后台发送任务，不打断当前工作
+- **原生 Swift** — 2 MB，秒启动，资源占用极低
 
-$9.99 买断制，终身可用。
+完全免费，所有功能开放。
 
 [🌐 官网](https://groask.com) · [⬇️ 下载](https://github.com/ThinkerJack/groask-release/releases/latest/download/GroAsk.dmg)
