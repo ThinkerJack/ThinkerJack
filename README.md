@@ -4,11 +4,11 @@
 
 ---
 
-<a href="https://groask.com">
+<a href="https://groask.com?ref=github">
   <img src="https://groask.com/images/hero.png" width="600" alt="GroAsk" />
 </a>
 
-#### ⚡ [GroAsk](https://groask.com) — The Fastest Launcher for Claude Code
+#### ⚡ [GroAsk](https://groask.com?ref=github) — The Fastest Launcher for Claude Code
 
 macOS 菜单栏 AI 启动器，一个快捷键直达 Claude Code。
 
@@ -23,4 +23,4 @@ macOS 菜单栏 AI 启动器，一个快捷键直达 Claude Code。
 
 完全免费，所有功能开放。
 
-[🌐 官网](https://groask.com) · [⬇️ 下载](https://github.com/ThinkerJack/groask-release/releases/latest/download/GroAsk.dmg)
+[🌐 官网](https://groask.com?ref=github) · [⬇️ 下载](https://groask.com/download?ref=github)
